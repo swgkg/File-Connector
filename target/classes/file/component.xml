@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="file" type="synapse/template" >
+    <subComponents>
+        <component name="foo-operation">
+            <file>foo-template.xml</file>
+            <description>sample wso2 connector library</description>
+        </component>
+         <component name="create">
+            <file>filecreate-template.xml</file>
+            <description>File creation</description>
+        </component>
+    </subComponents>
+</component>
+
+
